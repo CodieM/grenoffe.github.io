@@ -23,6 +23,6 @@ A recreation of a classic board game that has the player take turns placing tetr
 
 Smaller in scope and with a focus on learning are my personal projects. These are largely prototypes that I use as jumping of points for collaboration with fellow game creators, as well as just a chance for me to explore some genre of interest to me. These projects include:
 
-- Boids: Exploring flocking behaviour ![Boids](https://giphy.com/gifs/oFFGYuShLwrc9sl621)
+- Boids: Exploring flocking behaviour ![Boids](https://media.giphy.com/media/oFFGYuShLwrc9sl621/giphy.gif)
 - Procedural Playground: "dungeon" generation and procedural IK "walking"
 - RTS Prototype: Building a very basic framework for RTS games in Unity.
