@@ -19,7 +19,6 @@ A top down action/adventure game where you play as a ghost who helps a lost adve
 
 ### Blockus
 
-A recreation of a classic board game that has the player take turns placing tetris like blocks on a shared board, competing to occupy as much space a s possible on the board! Developed with in c++ using SFML. Worked in a team, I primarily worked on the overall structure of the program, while my team members were responsible for UI and AI! 
 A recreation of a classic board game that has the player take turns placing tetris like blocks on a shared board, competing to occupy as much space as possible on the board! Developed with in c++ using SFML. Worked in a team, I primarily worked on the overall structure of the program, while my team members were responsible for UI and AI.
 
 ![Blockus](https://media.giphy.com/media/PRIrTjl41JlLP3t3Je/giphy.gif)
