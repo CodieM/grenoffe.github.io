@@ -7,7 +7,7 @@ title: "Codie's Page"
 ---
 # Welcome To My Page
 
-Welcome to my website. Its very early in development, but it will be used as a showcase for projects that I'm proud of! Enjoy!
+Welcome to my website. Its very early in development, but it will be used as a showcase for *personal* projects that I'm proud of! Enjoy!
 
 ## Games
 
@@ -23,4 +23,6 @@ A recreation of a classic board game that has the player take turns placing tetr
 
 Smaller in scope and with a focus on learning are my personal projects. These are largely prototypes that I use as jumping of points for collaboration with fellow game creators, as well as just a chance for me to explore some genre of interest to me. These projects include:
 
-- 
+- Boids: Exploring flocking behaviour ![Boids](https://giphy.com/gifs/oFFGYuShLwrc9sl621)
+- Procedural Playground: "dungeon" generation and procedural IK "walking"
+- RTS Prototype: Building a very basic framework for RTS games in Unity.
