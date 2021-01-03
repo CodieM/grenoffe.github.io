@@ -21,7 +21,7 @@
 title: Showcase
 email: codie.mcconkey@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal site to showcase game projects I've been involved in
+  Personal site to showcase game projects I've been involved with.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  grenoffe
