@@ -5,9 +5,9 @@
 layout: home
 title: "Codie's Page"
 ---
-# Welcome To My Page
+# Welcome!
 
-Welcome to my website. Its very early in development, but it will be used as a showcase for *personal* projects that I'm proud of! Enjoy!
+Here you will find some samples of *personal* projects that I've had the pleasure of working on. Enjoy!
 
 ## Games
 
@@ -15,14 +15,19 @@ Welcome to my website. Its very early in development, but it will be used as a s
 
 A top down action/adventure game where you play as a ghost who helps a lost adventurer escape from a dangerous cave. Working with a small group, I did most of the programming for this prject, while my team members worked on art, level design, and storytelling!
 
+![Ghosty Boi](https://media.giphy.com/media/6dHFZoNBeb30Jerj1F/giphy.gif)
+
 ### Blockus
 
 A recreation of a classic board game that has the player take turns placing tetris like blocks on a shared board, competing to occupy as much space a s possible on the board! Developed with in c++ using SFML. Worked in a team, I primarily worked on the overall structure of the program, while my team members were responsible for UI and AI! 
+A recreation of a classic board game that has the player take turns placing tetris like blocks on a shared board, competing to occupy as much space as possible on the board! Developed with in c++ using SFML. Worked in a team, I primarily worked on the overall structure of the program, while my team members were responsible for UI and AI.
+
+![Blockus](https://media.giphy.com/media/PRIrTjl41JlLP3t3Je/giphy.gif)
 
 ### Mini Projects
 
 Smaller in scope and with a focus on learning are my personal projects. These are largely prototypes that I use as jumping of points for collaboration with fellow game creators, as well as just a chance for me to explore some genre of interest to me. These projects include:
 
 - Boids: Exploring flocking behaviour ![Boids](https://media.giphy.com/media/oFFGYuShLwrc9sl621/giphy.gif)
-- Procedural Playground: "dungeon" generation and procedural IK "walking"
-- RTS Prototype: Building a very basic framework for RTS games in Unity.
+- Procedural Playground: "dungeon" generation and procedural IK "walking" ![Example Generated Dungeon](https://imgur.com/RM8AXtw)
+- RTS Prototype: Building a very basic framework for RTS games in Unity. ![RTS]()
