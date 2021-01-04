@@ -5,7 +5,7 @@
 layout: home
 title: "Codie's Page"
 ---
-## Welcome!
+## Welcome
 
 Here you will find some samples of *personal* projects that I've had the pleasure of working on. Enjoy!
 
@@ -30,4 +30,3 @@ Smaller in scope and with a focus on learning are my personal projects. These ar
 - Boids: Exploring flocking behaviour ![Boids](https://media.giphy.com/media/oFFGYuShLwrc9sl621/giphy.gif)
 - Procedural Playground: "dungeon" generation and procedural IK "walking" ![Example Generated Dungeon](https://i.imgur.com/RM8AXtw.png)
 - RTS Prototype: Building a very basic framework for RTS games in Unity.
-
