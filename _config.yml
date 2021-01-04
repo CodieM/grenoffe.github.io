@@ -26,6 +26,19 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  grenoffe
 
+author:
+  name: "Codie McConkey"
+  avatar: "/assets/images/codie.jpg"
+  bio: "Recent Computer Science grad from Queens University." # Note: Markdown is allowed
+  location: "Canada, Ontario"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/codie-mcconkey/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/grenoffe"
+
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.21.0"
 plugins:

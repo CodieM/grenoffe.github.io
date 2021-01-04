@@ -4,6 +4,9 @@
 
 layout: single
 title: "Codie's Page"
+author_profile: true
+header:
+    image: "assets/images/background.jpg"
 ---
 ## Welcome
 
