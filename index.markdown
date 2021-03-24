@@ -33,4 +33,5 @@ Smaller in scope and with a focus on learning are my personal projects. These ar
 - Boids: Exploring flocking behaviour 
 ![Boids](https://media.giphy.com/media/oFFGYuShLwrc9sl621/giphy.gif)
 - Procedural Playground: "dungeon" generation and procedural IK "walking" ![Example Generated Dungeon](https://i.imgur.com/RM8AXtw.png)
-- RTS Prototype: Building a very basic framework for RTS games in Unity.
+- AR Sculpting: Using marching cubes to allow the user to sculpt in AR! ![Sculpting](https://media.giphy.com/media/HWMniKZr4nGcr8h5AS/giphy.gif)
+
